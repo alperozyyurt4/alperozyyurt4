@@ -25,19 +25,18 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+
 
 ###
 
-<p align="left">I'm Alper Ozyurt<br><br>- 🔭 I am a Computer Engineering student<br>- 📚 I'm currently learning Mobile Programming</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Language and tools</h3>
 
 ###
 
